@@ -1,0 +1,17 @@
+{
+  "name": "eo-bot",
+  "version": "1.0",
+  "description": "Provides status updates and discord member count to a static discord guild and channel.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.25.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gawky#1337",
+  "license": "MIT"
+}
