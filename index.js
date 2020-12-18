@@ -3,13 +3,11 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const request = require("request");
 const moment = require('moment');
-const fs = require('fs');
 
 // --- SERVER SETUP: START HERE --- //
 const botToken = '';
 const memberCountCategoryID = '';
 const updateChannelID = '';
-
 // --- SERVER SETUP END --- //
 
 // Status array
